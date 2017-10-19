@@ -26,6 +26,10 @@ p {
     text-align: center;
 }
 
+.imond{
+  background: #222;
+}
+
 /* Links */
 a {
   color: #1CBCAD;
